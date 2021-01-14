@@ -1,16 +1,17 @@
-The Rainbow and the Unicorn and the Something
+The Rainbow and the Unicorn and the Pony and the Something
 Purple
 Pink
 Orange
 UnicornSomething
-Blue
+BluePony
 Unicorn
-GreenSomething
+GreenPonySomething
 Unicorn
-Yellow
+YellowPony
 UnicornSomething
 Red
 UnicornSomething
-UnicornSomething
+UnicornPonySomething
 These are the colors of the RainbowSomething
 Unicorn
+Pony
