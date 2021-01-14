@@ -1,16 +1,16 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Something
 Purple
 Pink
 Orange
-Unicorn
+UnicornSomething
 Blue
 Unicorn
-Green
+GreenSomething
 Unicorn
 Yellow
-Unicorn
+UnicornSomething
 Red
-Unicorn
-Unicorn
-These are the colors of the Rainbow
+UnicornSomething
+UnicornSomething
+These are the colors of the RainbowSomething
 Unicorn
